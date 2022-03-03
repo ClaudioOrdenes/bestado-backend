@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Este Backend fue realizado como prueba de conocimiento de NodeJS y ExpressJS con datos dummy",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start":"nodemon index.js"
+  },
+  "author": "Claudio Ordenes SIIGroup",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
